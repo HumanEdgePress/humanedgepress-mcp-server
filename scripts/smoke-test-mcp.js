@@ -140,8 +140,19 @@ const httpProc = spawn(process.execPath, [join(root, "dist", "index.js"), "--htt
 });
 
 try {
-  await new Promise((r) => setTimeout(r, 450));
-  const healthRes = await fetch(`http://127.0.0.1:${testPort}/health`, { signal: AbortSignal.timeout(3000) });
+  let healthRes;
+  const deadline = Date.now() + 5000;
+  while (Date.now() < deadline) {
+    try {
+      healthRes = await fetch(`http://127.0.0.1:${testPort}/health`, { signal: AbortSignal.timeout(1000) });
+      if (healthRes.ok) break;
+    } catch {
+      await new Promise((r) => setTimeout(r, 150));
+    }
+  }
+  if (!healthRes) {
+    throw new Error(`HTTP server on port ${testPort} did not become ready within 5s`);
+  }
   const healthJson = await healthRes.json();
   check(
     "HTTP /health endpoint serves book & blog counts",
