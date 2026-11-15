@@ -1,0 +1,28 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.HumanEdgePress/humanedgepress-mcp-server",
+  "title": "Human Edge Press: Screen-Free Children's Books & Developmental Science",
+  "description": "Screen-free baby/toddler books, STEAM series, virtue stories, Socratic guides & research essays",
+  "version": "1.0.0",
+  "websiteUrl": "https://humanedgepress.com",
+  "icons": [
+    {
+      "src": "https://humanedgepress.com/cdn/shop/t/28/assets/Human_Edge_Logo_Transparent.png?v=101830841915432292831793804570",
+      "mimeType": "image/png"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/HumanEdgePress/humanedgepress-mcp-server",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "humanedgepress-mcp-server",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "faq-what-is-human-edge-press",
+    "question": "What is Human Edge Press and why are your books 100% screen-free?",
+    "category": "Mission & Philosophy",
+    "keywords": [
+      "human edge press",
+      "about",
+      "screen-free",
+      "philosophy",
+      "analog roots",
+      "austin"
+    ],
+    "answer": "Human Edge Press is an independent children's publisher headquartered in Austin, Texas ('Analog Roots First, Digital Wings Later'). We publish 100% physical, neuroscience-backed books for ages 0–8—including High-Contrast Baby Board Books (ages 0–2), Ethan Finch's STEAM Alphabet Board Books (ages 2–4), Pre-K Workbooks (ages 3–5), and The Human Edge Hardcover Virtue Series (ages 3–7)—designed with Socratic parent prompts to build deep focus, curiosity, and character without apps, QR codes, or batteries.",
+    "relatedBookHandles": [
+      "master-screen-free-chest-bundle",
+      "human-virtues-box-bundle"
+    ],
+    "canonicalUrl": "https://humanedgepress.com/pages/socratic-homeschooling"
+  },
+  {
+    "id": "faq-which-age-stage-book",
+    "question": "Which Human Edge Press books fit my child's age (newborn, toddler, preschool, or early elementary)?",
+    "category": "Age & Stage Selection",
+    "keywords": [
+      "age",
+      "stage",
+      "which book",
+      "newborn",
+      "1 year old",
+      "2 year old",
+      "3 year old",
+      "4 year old",
+      "5 year old",
+      "6 year old"
+    ],
+    "answer": "Our catalog is organized by developmental stage: • Ages 0–2 (Stage 1): High-Contrast Baby Board Books (6 titles + Newborn Sensory Starter 3-Book Box Set) for visual tracking and serve-and-return bonding. • Ages 2–4 (Stage 2): STEAM Alphabet Board Books (Science, Technology, Engineering, Art, Math + 3-Book Box Set) plus upcoming Oddlings Workbooks (ages 2–5). • Ages 3–5 (Pre-K): Big Pre-K Learning Workbook + upcoming First Think First Words (ages 4–5). • Ages 3–7 (Stage 3): The Human Edge Hardcover Virtue Series (12 child-and-animal storybooks with parent prompts + 5-Book Core Box Set). • Ages 0–7 Complete Library: The 23-Book Master Developmental Library Chest ($199.99).",
+    "relatedBookHandles": [
+      "newborn-sensory-starter-bundle",
+      "steam-little-thinkers-bundle",
+      "big-pre-k-learning-workbook",
+      "human-virtues-box-bundle",
+      "master-screen-free-chest-bundle"
+    ],
+    "canonicalUrl": "https://humanedgepress.com/collections/all"
+  },
+  {
+    "id": "faq-shipping-rates-and-speed",
+    "question": "How much does shipping cost and how fast do Human Edge Press orders arrive?",
+    "category": "Shipping & Fulfillment",
+    "keywords": [
+      "shipping",
+      "delivery",
+      "free shipping",
+      "how long",
+      "tracking",
+      "rates"
+    ],
+    "answer": "Orders placed Monday–Friday are packed in protective eco-friendly packaging and dispatched within 1–2 business days (24–48 hours) with real-time email tracking. Standard US Ground transit is 3–5 business days: $4.99 flat rate on smaller orders, and FREE US Standard Shipping on qualifying orders ($49+ per /pages/shipping; $50+ noted in the site header—every multi-book Box Set and the Master Chest qualify automatically).",
+    "relatedBookHandles": [
+      "newborn-sensory-starter-bundle",
+      "steam-little-thinkers-bundle",
+      "human-virtues-box-bundle"
+    ],
+    "canonicalUrl": "https://humanedgepress.com/pages/shipping"
+  },
+  {
+    "id": "faq-returns-and-guarantee",
+    "question": "What is your return policy and 30-Day Family Guarantee?",
+    "category": "Returns & Guarantee",
+    "keywords": [
+      "return",
+      "refund",
+      "exchange",
+      "guarantee",
+      "30 day",
+      "free return"
+    ],
+    "answer": "Every physical book is backed by our 30-Day Family Guarantee: you may request a 100% refund or exchange within 30 days of delivery with $0.00 return shipping and restocking (free prepaid return label) and 3–5 business day refund processing. Items must be in new, unused condition with no missing pages, writing, or permanent marks; contact support@humanedgepress.com with your order number or checkout email.",
+    "relatedBookHandles": [
+      "master-screen-free-chest-bundle"
+    ],
+    "canonicalUrl": "https://humanedgepress.com/pages/returns"
+  },
+  {
+    "id": "faq-bulk-schools-coops",
+    "question": "Do you offer wholesale or bulk orders for schools, libraries, Montessori classrooms, and homeschool co-ops?",
+    "category": "Schools, Libraries & Wholesale",
+    "keywords": [
+      "bulk",
+      "wholesale",
+      "school",
+      "library",
+      "homeschool co-op",
+      "classroom",
+      "discount"
+    ],
+    "answer": "Yes! Human Edge Press supports bulk orders for preschools, elementary classrooms, public/church libraries, pediatric clinics, and homeschool co-ops. Reach our Austin team via https://humanedgepress.com/pages/contact (select 'Wholesale, Library & Homeschool Co-op Orders') or email support@humanedgepress.com (average response time under 24 hours).",
+    "relatedBookHandles": [
+      "master-screen-free-chest-bundle",
+      "human-virtues-box-bundle",
+      "steam-little-thinkers-bundle"
+    ],
+    "canonicalUrl": "https://humanedgepress.com/pages/contact"
+  },
+  {
+    "id": "faq-socratic-parent-prompts",
+    "question": "How do the parent conversation prompts inside The Human Edge Series work?",
+    "category": "Socratic Reading & Pedagogy",
+    "keywords": [
+      "prompts",
+      "conversation prompts",
+      "how to read",
+      "virtues",
+      "character",
+      "parent guide"
+    ],
+    "answer": "Every hardcover in The Human Edge Series (ages 3–7) pairs an engaging everyday story featuring a child-and-animal duo (like Caleb & Retriever in 'Kind' or Zuri & Robin in 'Brave') with 3 open-ended 'Read Together' conversation prompts for parents—moving naturally from story observation to empathy to a real-world action your child can try tomorrow, with zero preachy lecturing.",
+    "relatedBookHandles": [
+      "human-edge-kind",
+      "human-edge-brave",
+      "human-edge-patient",
+      "human-virtues-box-bundle"
+    ],
+    "canonicalUrl": "https://humanedgepress.com/collections/human-edge-series"
+  }
+]

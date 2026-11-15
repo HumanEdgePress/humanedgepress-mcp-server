@@ -1,0 +1,39 @@
+{% comment %}
+  Human Edge Press — Enhanced Publisher, Book & Agentic Discovery Schema
+  Include in layout/theme.liquid right before </head>:
+  {% render 'humanedgepress-organization-and-book-schema' %}
+{% endcomment %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://humanedgepress.com/#organization",
+  "name": "Human Edge Press",
+  "url": "https://humanedgepress.com",
+  "slogan": "Analog Roots First, Digital Wings Later",
+  "description": "Independent Austin, Texas children's publisher producing 100% screen-free high-contrast baby board books, STEAM alphabet books, Pre-K workbooks, character virtue hardcovers, and Socratic parent guides for ages 0–8.",
+  "sameAs": [
+    "https://twitter.com/humanedgepress",
+    "https://pinterest.com/humanedgepress",
+    "https://github.com/HumanEdgePress/humanedgepress-mcp-server",
+    "https://www.npmjs.com/package/humanedgepress-mcp-server"
+  ]
+}
+</script>
+{% if request.page_type == 'product' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": {{ product.title | json }},
+  "url": "{{ shop.url }}{{ product.url }}",
+  "description": {{ product.description | strip_html | truncate: 500 | json }},
+  "publisher": {
+    "@type": "Organization",
+    "name": "Human Edge Press"
+  },
+  "bookFormat": "{% if product.type contains 'Hardcover' %}https://schema.org/Hardcover{% else %}https://schema.org/Paperback{% endif %}",
+  "inLanguage": "en-US"
+}
+</script>
+{% endif %}

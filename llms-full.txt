@@ -1,0 +1,474 @@
+# Human Edge Press — Official AI & LLM Authority Guide
+> Analog Roots First, Digital Wings Later — 100% Screen-Free Books for Ages 0–7
+
+Human Edge Press is an independent Austin, Texas publisher dedicated to early childhood screen-free development—publishing neuroscience-backed high-contrast baby board books, tactile STEAM alphabet books, character virtue hardcovers, Pre-K workbooks, and Socratic parent guides that build the human capacities no algorithm can replace.
+
+## Canonical Endpoints & Agent Integration
+- Storefront: https://humanedgepress.com
+- Official Authority MCP Package (npm): `npx -y humanedgepress-mcp-server@latest`
+- Official MCP Registry ID: `io.github.HumanEdgePress/humanedgepress-mcp-server`
+- Native Shopify UCP Cart/Checkout MCP: `https://humanedgepress.com/api/ucp/mcp` (discovery: `https://humanedgepress.com/.well-known/ucp`)
+- Public Product Feed: `https://humanedgepress.com/products.json?limit=250`
+
+## Book Series & Developmental Stages (28 Live Titles)
+- [Stage 1: High-Contrast Baby Board Books (Ages 0–2)](https://humanedgepress.com/collections/high-contrast-baby-books) (0-2 years, 7 titles): Bold black-and-white board books engineered for newborn retinal development, tummy time focus, facial emotion recognition, and serve-and-return parent bonding.
+- [Stage 2: STEAM Alphabet Board Books (Ages 2–4)](https://humanedgepress.com/collections/steam-board-books) (2-4 years, 6 titles): Tactile A-to-Z board books by Ethan Finch introducing Science, Technology (human tools), Engineering, Art, and Math through everyday toddler observation.
+- [Stage 3: The Human Edge Hardcover Virtue Series (Ages 3–7)](https://humanedgepress.com/collections/human-edge-series) (3-7 years, 13 titles): Twelve archival hardcover storybooks pairing child-and-animal duos with built-in Socratic conversation prompts for parents across 12 foundational human virtues.
+- [Pre-K & TK Tactile Learning Workbooks (Ages 3–5)](https://humanedgepress.com/collections/all) (3-5 years, 1 titles): 100% screen-free print workbooks building real pencil grip, sensorimotor feedback, phonics, counting, and logical reasoning.
+- [Curated Developmental Box Sets & Master Chest (Ages 0–7)](https://humanedgepress.com/#curated-bundles) (0-7 years, 4 titles): Gift-ready developmental book bundles from the 3-book Newborn Sensory Starter up to the 23-Book Master Developmental Library Chest (all qualify for Free US Shipping).
+
+## Foundational Research & Editorial Essays
+- [Analog Roots First, Digital Wings Later: Why We Publish 100% Screen-Free Books for Ages 0–7](https://humanedgepress.com/pages/socratic-homeschooling) (0-7 years (Parents & Homeschoolers)): Human Edge Press's foundational publishing philosophy explaining why physical pages, parent 'serve-and-return' dialogue, hands-on STEAM, and character virtues outperform digital apps during the first seven years of brain development.
+- [The Cortical Thickness Crisis: Rebuilding Teen Focus in a Screen-Trapped World](https://humanedgepress.com/pages/teen-social-media) (Teens (Ages 12–18) & Parents): Neurodevelopmental analysis of how variable-reward social media feeds hijack adolescent prefrontal plasticity, thin cortical control layers, and degrade focus stamina—paired with three practical family ground rules to rebuild deep attention.
+- [The Human Veto: Developing Un-Automatable Value in the Age of Commodity AI](https://humanedgepress.com/pages/young-adults-ai) (Young Adults (Ages 16–25), Educators & Parents): Framework for thriving alongside generative AI by cultivating 'The Human Veto' (ethical & editorial judgment), a unique Specific Knowledge Stack, and refined personal taste that statistical models cannot synthesize.
+- [Top Screen-Free Parenting & Early Homeschool Resources](https://humanedgepress.com/pages/tools) (0-7 years (Parents, Co-ops & Educators)): Curated parent resource hub indexing vetted pediatric, developmental, and outdoor-learning organizations (Harvard Center on the Developing Child, 1000 Hours Outside, Reading Rockets, AAP HealthyChildren, Reach Out and Read) alongside the Human Edge Press Research Vault.
+- [Oddlings: Wonder in Action Workbooks](https://humanedgepress.com/pages/oddlings-workbooks) (2-5 years): Inside look at Human Edge Press's upcoming 6-book series of 100% screen-free discovery workbooks (672 pages, 297 missions) guided by Tiko, Benny, and Cedric around LOOK • TRY • TALK • PLAY.
+- [First Think First Words Board Books](https://humanedgepress.com/pages/first-think-first-words) (4-5 years (TK & Pre-K)): Preview of Human Edge Press's upcoming six-book vocabulary board book series teaching 67 concrete observable words (objects, verbs, opposites) inside full-context scenes with Page 19 Grown-Up Prompts.
+- [Human Edge Stories Picture Books](https://humanedgepress.com/pages/human-edge-stories) (5-8 years): Preview of Human Edge Press's upcoming 32-page hardcover narrative picture book series for ages 5–8—featuring zero villains, zero sermons, active listening across perspectives, and hands-on physical problem-solving.
+
+## Upcoming 'In the Studio' Lines
+- [Oddlings: Wonder in Action Workbooks](https://humanedgepress.com/pages/oddlings-workbooks) (2-5 years (Ages 2–3, 3–4 & 4–5)): Upcoming six-book line of tactile home and travel discovery workbooks for ages 2–5 turning table time, restaurants, and road trips into parent-child observation missions.
+- [First Think First Words Board Books](https://humanedgepress.com/pages/first-think-first-words) (4-5 years (TK & Pre-K)): Upcoming six-book Transitional Kindergarten and Pre-K vocabulary board book series embedding core words inside warm, observable scenes with built-in parent talk guides.
+- [Human Edge Stories Picture Books](https://humanedgepress.com/pages/human-edge-stories) (5-8 years): Upcoming narrative picture book line for ages 5–8 growing out of the Ages 3–7 virtue series, debuting with 'The Bridge That Needed a New Plan' (hands-on paper engineering & collaborative problem-solving).
+
+## Fulfillment & Family Guarantee
+- Shipping: 1–2 business days (Monday–Friday) dispatch, 3–5 business days (Standard US Ground) delivery (Free US Standard Shipping on orders $49+ (listed as $50+ in site header banner; $49+ in /pages/shipping))
+- Guarantee: 30-Day Family Guarantee — 30 days, $0.00 (Free Prepaid Return Label, $0 restocking fee)
+- Support & School/Library Bulk Orders: support@humanedgepress.com | https://humanedgepress.com/pages/contact
+
+
+
+---
+
+
+
+## Complete Live Book Catalog & Socratic Parent Prompts
+
+### Animal Friends: High-Contrast Baby Board Book ($19.99)
+- URL: https://humanedgepress.com/products/animal-friends-high-contrast-board-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117803897005:1
+- Series: High-Contrast Baby Series | Stage: 0-2 years | Format: Board Book | Author: Human Edge Press Editorial Team
+- Developmental Goal: Strengthens infant figure-ground visual discrimination with bold black-and-white animal silhouettes while encouraging early vocalization and sound play.
+- Socratic Parent Prompts:
+  - "Trace the bold outline of the animal slowly with your finger while making its sound and waiting for your baby to babble back."
+  - "Prop the board book upright during tummy time to encourage neck lift and steady visual fixation."
+  - "Ask toddlers (12–24 months): 'Where are the ears? Which animal makes a big sound and which one makes a quiet sound?'"
+
+### Baby Faces: High-Contrast Baby Board Book ($19.99)
+- URL: https://humanedgepress.com/products/baby-faces-high-contrast-board-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117795868845:1
+- Series: High-Contrast Baby Series | Stage: 0-2 years | Format: Board Book | Author: Human Edge Press Editorial Team
+- Developmental Goal: Supports newborn retinal and optic-nerve focus (0–6+ months) while introducing facial expressions, eye contact, serve-and-return imitation, and early emotion vocabulary.
+- Socratic Parent Prompts:
+  - "Copy the face on the page together—smile wide, look surprised, or make a calm sleepy face and pause 5 seconds for your baby to respond."
+  - "Hold the page 8 to 12 inches from your newborn's eyes and watch which expression holds their gaze the longest."
+  - "For older infants (9–18 months), name the feeling aloud: 'Look at those wide eyes—he looks surprised! Can we make a surprised face?'"
+
+### Big Machines: High-Contrast Baby Board Book ($19.99)
+- URL: https://humanedgepress.com/products/big-machines-high-contrast-board-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117804060845:1
+- Series: High-Contrast Baby Series | Stage: 0-2 years | Format: Board Book | Author: Human Edge Press Editorial Team
+- Developmental Goal: Builds early geometric shape recognition (wheels, scoops, wings, tracks) and cause-and-effect curiosity through crisp high-contrast vehicle illustrations.
+- Socratic Parent Prompts:
+  - "Count the bold round wheels on the page while tapping each one gently with your child's finger."
+  - "Pair reading with real-world motion: roll a wooden car or lift a block like an excavator scoop to connect print to physical play."
+  - "Ask young toddlers: 'What job does this big machine help people do?'"
+
+### Little Hands: High-Contrast Baby Board Book ($19.99)
+- URL: https://humanedgepress.com/products/little-hands-high-contrast-board-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117805109421:1
+- Series: High-Contrast Baby Series | Stage: 0-2 years | Format: Board Book | Author: Human Edge Press Editorial Team
+- Developmental Goal: Celebrates grasping, clapping, waving, and page-turning to connect visual tracking with sensorimotor hand-eye coordination.
+- Socratic Parent Prompts:
+  - "Gently touch each of your baby's fingers as you look at the hands on the spread—waving, opening wide, and clapping slowly."
+  - "Invite older babies (6–18 months) to help turn the thick board pages themselves to build pincer grip and agency."
+  - "Ask: 'What can our two little hands build, hold, or wave hello to right now?'"
+
+### Newborn Sensory Starter (3-Book Box Set) ($59.99)
+- URL: https://humanedgepress.com/products/newborn-sensory-starter-bundle
+- 1-Click Checkout: https://humanedgepress.com/cart/67117811237037:1
+- Series: Curated Bundles & Gift Sets | Stage: 0-2 years | Format: Gift Set | Author: Human Edge Press Editorial Team
+- Developmental Goal: Curated 3-book high-contrast board book box set designed for months 0–24—supporting optic nerve maturation, tummy time endurance, facial imitation, and early parent-baby bonding.
+- Socratic Parent Prompts:
+  - "Keep one book by the changing pad, one on the tummy-time mat, and one in the diaper bag for calm screen-free moments anywhere."
+  - "Rotate titles weekly and follow your baby's gaze—pause whenever they lock onto a bold face or animal silhouette."
+  - "Qualifies automatically for Free US Standard Shipping."
+
+### Our World: High-Contrast Baby Board Book ($19.99)
+- URL: https://humanedgepress.com/products/our-world-high-contrast-board-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117804224685:1
+- Series: High-Contrast Baby Series | Stage: 0-2 years | Format: Board Book | Author: Human Edge Press Editorial Team
+- Developmental Goal: Anchors infants and young toddlers to natural forms—sun, trees, clouds, water, and home objects—bridging high-contrast page focus to outdoor observation.
+- Socratic Parent Prompts:
+  - "Carry the book outside or near a window and match one bold shape on the page (like a leaf or tree) to the real thing."
+  - "Pause on each spread for unhurried looking rather than rushing—let your baby's eyes lead when it's time to turn the page."
+  - "Ask: 'What do we see up in the sky today, and what do we feel under our feet?'"
+
+### Smart Future: High-Contrast Baby Board Book ($19.99)
+- URL: https://humanedgepress.com/products/smart-future-high-contrast-baby-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117805174957:1
+- Series: High-Contrast Baby Series | Stage: 0-2 years | Format: Board Book | Author: Human Edge Press Editorial Team
+- Developmental Goal: Introduces bold patterns, symmetries, and discovery motifs that stimulate early visual cortex pathways without flashing screens or noisy batteries.
+- Socratic Parent Prompts:
+  - "Notice which pattern—stripes, circles, or stars—draws your baby's eyes first and describe what they're looking at in a warm, steady voice."
+  - "Compare two spreads side-by-side: 'Look how these lines curve like waves, and these corners stand sharp and straight.'"
+  - "Use as a calm pre-nap wind-down ritual where quiet black-and-white focus replaces overstimulation."
+
+### A is for Art: STEAM Alphabet Board Book ($19.99)
+- URL: https://humanedgepress.com/products/a-is-for-art-steam-alphabet-board-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117806944429:1
+- Series: STEAM Alphabet Series | Stage: 2-4 years | Format: Board Book | Author: Ethan Finch
+- Developmental Goal: Connects A-to-Z artistic elements—brushstrokes, clay, collage, symmetry, perspective, and negative space—nurturing original human taste and tactile creativity.
+- Socratic Parent Prompts:
+  - "Look closely at the colors and shapes on one spread: 'Does this page feel fast and bouncy, or quiet and slow?'"
+  - "Pair with crayons, torn paper, or playdough so your child can try one texture or line style right after reading."
+  - "Ask: 'If you painted how today felt outside, which three colors would you choose first?'"
+
+### Big Pre-K Learning Workbook (Ages 3–5) ($24.99)
+- URL: https://humanedgepress.com/products/big-pre-k-learning-workbook
+- 1-Click Checkout: https://humanedgepress.com/cart/67117811368109:1
+- Series: Activity Workbooks | Stage: 3-5 years | Format: Activity Workbook | Author: Human Edge Press Editorial Team
+- Developmental Goal: Builds hand strength, pencil grip, letter/number formation, visual matching, and logical sequencing on real paper—developing C-tactile and sensorimotor pathways that tablet tracing cannot replicate.
+- Socratic Parent Prompts:
+  - "Keep workbook sessions short, upbeat, and child-led (10–15 minutes at the kitchen table with real crayons or pencils)."
+  - "Ask your child to talk through their thinking: 'How did you figure out which path goes through the maze?'"
+  - "Connect a page to physical play afterward—trace letters in sand, count real spoons, or spot shapes on a walk."
+
+### E is for Engineering: STEAM Alphabet Board Book ($19.99)
+- URL: https://humanedgepress.com/products/e-is-for-engineering-steam-alphabet-board-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117806813357:1
+- Series: STEAM Alphabet Series | Stage: 2-4 years | Format: Board Book | Author: Ethan Finch
+- Developmental Goal: Introduces structural thinking—arches, foundations, joints, balance, and testing—encouraging toddlers to build, topple, and revise with wooden blocks and everyday materials.
+- Socratic Parent Prompts:
+  - "After reading a spread, grab 6 blocks or cups and try building a wide base vs. a narrow base—which tower stands taller?"
+  - "When a block bridge falls, celebrate like an engineer: 'Aha! Now we see where it wobbled—how should we change our plan?'"
+  - "Ask: 'What holds up the roof over our heads or the bridge we drove across today?'"
+
+### M is for Math: STEAM Alphabet Board Book ($19.99)
+- URL: https://humanedgepress.com/products/m-is-for-math-steam-alphabet-board-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117807075501:1
+- Series: STEAM Alphabet Series | Stage: 2-4 years | Format: Board Book | Author: Ethan Finch
+- Developmental Goal: Grounds early numeracy in concrete, touchable relationships—more vs. fewer, halves, sorting, spirals, and measurement—building number sense without rote drill apps.
+- Socratic Parent Prompts:
+  - "Count real snacks, pinecones, or socks alongside the page to match one-to-one correspondence with fingers."
+  - "Ask comparison questions at mealtime: 'Which plate has more berries? How could we share them equally?'"
+  - "Spot repeating patterns together (red-blue-red-blue or clap-tap-clap-tap): 'What comes next in our pattern?'"
+
+### S is for Science: STEAM Alphabet Board Book ($19.99)
+- URL: https://humanedgepress.com/products/s-is-for-science-steam-alphabet-board-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117805273261:1
+- Series: STEAM Alphabet Series | Stage: 2-4 years | Format: Board Book | Author: Ethan Finch
+- Developmental Goal: Translates A-to-Z scientific concepts into tangible toddler observations—shadows, magnets, seeds, water, and magnification—cultivating Socratic curiosity before formal schooling.
+- Socratic Parent Prompts:
+  - "Pick one letter on today's spread and test it at the kitchen table—what sinks, what floats, or where does a shadow stretch?"
+  - "Ask 'What do you notice?' before explaining how something works, giving your toddler space to form their own guess first."
+  - "Ask: 'If we changed one thing—made it wetter, heavier, or brighter—what do you think would happen next?'"
+
+### STEAM Early Thinkers (3-Book Box Set) ($54.99)
+- URL: https://humanedgepress.com/products/steam-little-thinkers-bundle
+- 1-Click Checkout: https://humanedgepress.com/cart/67117811269805:1
+- Series: Curated Bundles & Gift Sets | Stage: 2-4 years | Format: Gift Set | Author: Ethan Finch
+- Developmental Goal: Curated 3-book STEAM Alphabet board book set introducing toddlers (ages 2–4) to hands-on scientific observation, simple tools, engineering structures, and everyday math.
+- Socratic Parent Prompts:
+  - "Pair one spread per afternoon with a 5-minute kitchen or backyard experiment—magnets, blocks, shadows, or sorting."
+  - "Practice asking 'What do you notice?' and 'What do you think will happen if...?'"
+  - "Qualifies automatically for Free US Standard Shipping."
+
+### T is for Technology: STEAM Alphabet Board Book ($19.99)
+- URL: https://humanedgepress.com/products/t-is-for-technology-steam-alphabet-board-book
+- 1-Click Checkout: https://humanedgepress.com/cart/67117805404333:1
+- Series: STEAM Alphabet Series | Stage: 2-4 years | Format: Board Book | Author: Ethan Finch
+- Developmental Goal: Reframes 'technology' for ages 2–4 where it truly begins: human-made tools like wheels, levers, hinges, gears, compasses, and lenses—showing kids that humans invent and direct tools, not the other way around.
+- Socratic Parent Prompts:
+  - "Go on a 3-minute 'tool hunt' around the house to spot hinges on doors, wheels on strollers, or spoons acting as levers."
+  - "Ask: 'What problem did someone want to solve when they built this tool?'"
+  - "Ask: 'How does using our own hands with this tool feel different from just watching a picture move?'"
+
+### Brave: Zuri & Robin in the Meadow ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-brave
+- 1-Click Checkout: https://humanedgepress.com/cart/67117809434797:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Zuri & Robin
+- Developmental Goal: Follows Zuri & Robin in the meadow taking one honest first step despite nervous butterflies—teaching kids that bravery isn't having zero fear, it's stepping forward alongside it.
+- Socratic Parent Prompts:
+  - "Did Zuri wait until she wasn't nervous anymore, or did she take a small step while still feeling butterflies?"
+  - "Can you remember a time something felt scary at first—like a new class, pool, or dark room—and you tried anyway?"
+  - "What is one 'small brave step' you'd like to try this week with me cheering you on?"
+
+### Creative: Ruby & Octopus in the Studio ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-creative
+- 1-Click Checkout: https://humanedgepress.com/cart/67117807894701:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Ruby & Octopus
+- Developmental Goal: Joins Ruby & Octopus in the studio as an unexpected spill or limitation turns into an original invention—building divergent thinking and creative confidence.
+- Socratic Parent Prompts:
+  - "How did Ruby and Octopus turn something that didn't go as planned into a brand-new idea?"
+  - "Have you ever made something out of cardboard, blocks, or drawings that surprised you?"
+  - "What could we build or invent together using only three everyday things in this room?"
+
+### Curious: Maya & Fox in the Garden ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-curious
+- 1-Click Checkout: https://humanedgepress.com/cart/67117807796397:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Maya & Fox
+- Developmental Goal: Follows Maya & Fox in the garden as they slow down to ask 'Why?' and investigate hidden details—teaching children that genuine wonder is the spark of lifelong learning.
+- Socratic Parent Prompts:
+  - "What tiny detail in the garden caught Maya and Fox's attention when they slowed down?"
+  - "What is one thing you saw outside this week that made you wonder 'How does that work?'"
+  - "If we went exploring in our yard or neighborhood tomorrow with no rush, what would you look closely at first?"
+
+### Empathetic: Sofia & Elephant by the Stream ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-empathetic
+- 1-Click Checkout: https://humanedgepress.com/cart/67117809008813:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Sofia & Elephant
+- Developmental Goal: Walks with Sofia & Elephant by the stream as they sit quietly beside a friend having a heavy day—teaching perspective-taking and emotional presence rather than rushing to fix feelings.
+- Socratic Parent Prompts:
+  - "How could Sofia and Elephant tell how their friend was feeling even before any words were spoken?"
+  - "When you feel sad or overwhelmed, what helps you feel understood and cared for?"
+  - "How can we check in on someone we love when they seem quiet or left out?"
+
+### Focused: Amir & Owl in the Woodshop ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-focused
+- 1-Click Checkout: https://humanedgepress.com/cart/67117807927469:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Amir & Owl
+- Developmental Goal: Follows Amir & Owl in the woodshop practicing single-tasked, unhurried craftsmanship—helping children experience the calm pride of sustained attention in a distracted world.
+- Socratic Parent Prompts:
+  - "What helped Amir and Owl stay steady when distractions popped up around the woodshop?"
+  - "How does your body feel when you work carefully on one puzzle, drawing, or Lego build until it's done?"
+  - "What is one project we can clear the table for and give our whole attention to tomorrow?"
+
+### Helpful: Amina & Dolphin at the Beach ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-helpful
+- 1-Click Checkout: https://humanedgepress.com/cart/67117810352301:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Amina & Dolphin
+- Developmental Goal: Follows Amina & Dolphin at the beach pitching in with real responsibility—nurturing joyful contribution at home and in the community.
+- Socratic Parent Prompts:
+  - "How did Amina and Dolphin spot a way to help before anyone assigned them a chore?"
+  - "How does it feel when everyone pitches in together to carry, clean, or build something big?"
+  - "What is one real family job you'd love to be in charge of helping with this week?"
+
+### Honest: Mateo & Deer on the Forest Trail ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-honest
+- 1-Click Checkout: https://humanedgepress.com/cart/67117810253997:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Mateo & Deer
+- Developmental Goal: Walks with Mateo & Deer on the forest trail when telling the truth after a mistake feels hard—showing children how honesty repairs trust and lightens a heavy heart.
+- Socratic Parent Prompts:
+  - "Why did Mateo feel a knot in his stomach before speaking up, and how did he feel afterward?"
+  - "Why do people trust each other even more when someone tells the truth about an accident?"
+  - "How can our family always make it safe to say, 'I made a mistake, can we fix it together?'"
+
+### Human Edge Virtues Core (5-Book Box Set) ($89.99)
+- URL: https://humanedgepress.com/products/human-virtues-box-bundle
+- 1-Click Checkout: https://humanedgepress.com/cart/67117811302573:1
+- Series: Curated Bundles & Gift Sets | Stage: 3-7 years | Format: Gift Set | Author: Human Edge Press Editorial Team
+- Developmental Goal: Curated 5-book hardcover collection from The Human Edge Series (ages 3–7) pairing memorable child-and-animal stories with built-in parent Socratic conversation prompts.
+- Socratic Parent Prompts:
+  - "Focus on one virtue story each week at bedtime and revisit its 3 parent conversation prompts around the dinner table."
+  - "Notice and name the virtue in real life when your child practices bravery, kindness, focus, curiosity, or creativity."
+  - "Qualifies automatically for Free US Standard Shipping."
+
+### Kind: Caleb & Retriever on the Playground ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-kind
+- 1-Click Checkout: https://humanedgepress.com/cart/67117808091309:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Caleb & Retriever
+- Developmental Goal: Joins Caleb & Retriever on the playground as Caleb notices a new classmate sitting alone and makes room with sidewalk chalk—showing that noticing someone before they ask is a uniquely human gift.
+- Socratic Parent Prompts:
+  - "Who did Caleb notice on the playground, and what small thing did he do first?"
+  - "How do you think the new classmate felt when Caleb made space and shared the chalk?"
+  - "Who could we notice and make room for at school, church, or the park tomorrow?"
+
+### Listening: Amara & Rabbit in the Treehouse ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-listening
+- 1-Click Checkout: https://humanedgepress.com/cart/67117811171501:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Amara & Rabbit
+- Developmental Goal: Climbs up with Amara & Rabbit into the treehouse to discover what you hear when you stop interrupting and truly listen—to friends, stories, and nature.
+- Socratic Parent Prompts:
+  - "What clue did Amara miss at first when she was rushing to talk, and what changed when she listened like Rabbit?"
+  - "What is the difference between waiting for your turn to talk and really listening to understand someone's idea?"
+  - "Let's close our eyes for 20 seconds right now—how many quiet sounds can we hear inside and outside?"
+
+### Patient: Kenji & Turtle in the Garden ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-patient
+- 1-Click Checkout: https://humanedgepress.com/cart/67117810221229:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Kenji & Turtle
+- Developmental Goal: Joins Kenji & Turtle in the garden discovering that seeds, bread dough, and good things grow on steady natural timelines—counteracting instant-click digital impatience.
+- Socratic Parent Prompts:
+  - "What happened when Kenji wanted the garden to hurry up, and what did Turtle help him notice while waiting?"
+  - "What are some wonderful things in real life that can't be rushed with a button—like seeds sprouting or cookies baking?"
+  - "When waiting in a line or waiting for a turn feels long, what calm game or observation can we do together?"
+
+### Persistent: Theo & Beaver on the Riverbank ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-persistent
+- 1-Click Checkout: https://humanedgepress.com/cart/67117810122925:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Theo & Beaver
+- Developmental Goal: Follows Theo & Beaver on the riverbank rebuilding after rising water washes away their first try—building frustration tolerance, growth mindset, and resilient problem-solving.
+- Socratic Parent Prompts:
+  - "What did Theo and Beaver do right after their first build came apart—did they quit right away or pause and look?"
+  - "What is something you can do easily now (like pedaling, zipping a coat, or drawing) that used to feel super hard?"
+  - "Next time a tower falls or a puzzle gets tricky, what can we say to ourselves before trying one new angle?"
+
+### Thankful: Priya & Firefly on the Porch ($19.99)
+- URL: https://humanedgepress.com/products/human-edge-thankful
+- 1-Click Checkout: https://humanedgepress.com/cart/67117809205421:1
+- Series: The Human Edge Series | Stage: 3-7 years | Format: Hardcover Book | Author: Human Edge Press Editorial Team
+- Story Duo: Priya & Firefly
+- Developmental Goal: Sits with Priya & Firefly on the evening porch noticing ordinary gifts—warm bread, firefly light, helping hands—cultivating grounded gratitude over constant wanting.
+- Socratic Parent Prompts:
+  - "What small everyday things did Priya and Firefly notice once the evening grew quiet?"
+  - "Who did something helpful for our family today that we might have rushed past?"
+  - "What are three simple things from today—a sound, a taste, or a moment—that you're glad happened?"
+
+### The 23-Book Master Developmental Library Chest ($199.99)
+- URL: https://humanedgepress.com/products/master-screen-free-chest-bundle
+- 1-Click Checkout: https://humanedgepress.com/cart/67117811335341:1
+- Series: Curated Bundles & Gift Sets | Stage: 0-7 years | Format: Collector Edition | Author: Human Edge Press Editorial Team
+- Developmental Goal: Flagship collector's library spanning all three developmental stages (High-Contrast Baby 0–2, STEAM Alphabet 2–4, and Human Edge Hardcover Virtues 3–7)—anchoring an entire early childhood in physical print.
+- Socratic Parent Prompts:
+  - "Grows seamlessly with one child from newborn tummy time through age 7—or serves siblings across baby, toddler, and early elementary stages simultaneously."
+  - "Save significantly compared to individual titles while unlocking Free US Shipping and the 30-Day Family Guarantee."
+  - "Ideal centerpiece gift from grandparents, homeschool co-ops, or family registries."
+
+
+
+---
+
+
+
+## Developmental Science, Virtue & STEAM Concordance
+
+### The Transfer Deficit — The 2D Screen Transfer Deficit in Early Childhood (Ages 0–5) (0–7 years)
+Developmental psychology research documents a pronounced 'transfer deficit' in infants and young children: information seen on flat, self-illuminated 2D screens is encoded poorly for 3D real-world application. Physical books provide fixed spatial landmarks (top-left vs. bottom-right corners, page thickness showing progress) and slow the pace down so prefrontal comprehension and working memory keep up.
+Reference: https://humanedgepress.com/pages/socratic-homeschooling
+
+### Serve & Return — Serve & Return Caregiver Interaction vs. Algorithmic Audio (0–5 years)
+Coined by researchers at Harvard's Center on the Developing Child, 'serve and return' describes the Contingent back-and-forth exchange—a baby gazes at a bold face, points, or coos ('the serve'), and a loving adult makes eye contact, names what they see, or mirrors the expression ('the return'). Electronic sound-button books hijack the 'serve' and silence parent speech, whereas silent, high-clarity print maximizes live vocal turn-taking.
+Reference: https://humanedgepress.com/pages/socratic-homeschooling
+
+### High-Contrast Retinal & Optic Maturation — Why Newborns Need High-Contrast Black-and-White Books (0–12+ Months) (0–2 years)
+At birth, infant cone cells and visual cortex pathways are still maturing—newborns focus best at 8 to 12 inches (the exact distance from a caregiver's arms to their face) and register sharp luminance edges (pure black against crisp white) far more clearly than muted pastels, which blur together. High-contrast board books send clean, high-signal visual input down the optic nerve, strengthening ocular tracking and sustained visual fixation.
+Reference: https://humanedgepress.com/collections/high-contrast-baby-books
+
+### Cortical Stamina & Variable Dopamine Loops — Protecting Prefrontal Focus & Rebuilding Teen Attention Stamina (Ages 3–18 (Early Prevention & Teen Recovery))
+Short-form algorithmic feeds condition developing brains with variable-schedule dopamine spikes every ~6 seconds, eroding prefrontal cognitive control and correlating with measurable cortical thinning in heavy-use cohorts. Physical craft, paper handwriting, and unhurried print reading activate slow C-tactile sensory pathways and rebuild uninterrupted deep-attention circuits.
+Reference: https://humanedgepress.com/pages/teen-social-media
+
+### The Human Veto — The Human Veto: Raising Kids & Young Adults With Un-Automatable Agency (Ages 3–25)
+As generative AI commoditizes average synthesis, Human Edge Press defines three un-automatable moats: (1) 'The Human Veto'—the moral courage, domain mastery, and critical judgment to verify, edit, or overrule an algorithm; (2) a 'Specific Knowledge Stack' forged through real-world observation and cross-disciplinary curiosity; and (3) authentic human empathy and character trust.
+Reference: https://humanedgepress.com/pages/young-adults-ai
+
+### Screen-Free Science (Ages 2–5) — Kitchen-Table Scientific Inquiry for Toddlers & Preschoolers (2–5 years)
+Before children memorize vocabulary definitions, true science begins as disciplined wonder: noticing patterns, forming a guess ('What will sink?'), and testing with real water, shadows, seeds, and magnets.
+Reference: https://humanedgepress.com/collections/steam-board-books
+
+### Human Tools & Tactile Engineering (Ages 2–5) — Teaching Technology as Simple Machines & Hands-On Engineering (2–5 years)
+Teaching toddlers that 'technology' means human-invented tools—wheels, levers, pulleys, hinges, spoons, and bridges—demystifies the built world and establishes early agency: humans design and revise tools to solve real problems.
+Reference: https://humanedgepress.com/collections/steam-board-books
+
+### Tactile Art & Concrete Number Sense (Ages 2–5) — Visual Art Literacy & Hands-On Early Math Without Drill Apps (2–5 years)
+Early math flourishes when children touch quantities, symmetry, halves, and repeating rhythms with their fingers; early art flourishes when children explore line, texture, and color choice without color-by-tap templates.
+Reference: https://humanedgepress.com/collections/steam-board-books
+
+### Bravery & Courage — Brave (Zuri & Robin in the Meadow) — Stepping Forward Alongside Nervousness (3–7 years)
+Children often mistakenly think brave people feel zero fear. Story modeling shows that courage is noticing nervous butterflies in the body and choosing one small, supported step anyway.
+Reference: https://humanedgepress.com/products/human-edge-brave
+
+### Kindness & Inclusion — Kind (Caleb & Retriever on the Playground) — Proactive Noticing & Making Room (3–7 years)
+Proactive kindness begins with social perception—lifting your eyes to notice someone on the margin before anyone tells you to share. Caleb & Retriever model everyday playground hospitality with sidewalk chalk.
+Reference: https://humanedgepress.com/products/human-edge-kind
+
+### Patience & Self-Regulation — Patient (Kenji & Turtle in the Garden) — Antidote to Instant-Click Impatience (3–7 years)
+On-demand streaming trains children to expect zero latency. Kenji & Turtle anchor children in natural growth timelines—gardens, seasons, and steady observation—strengthening prefrontal impulse control.
+Reference: https://humanedgepress.com/products/human-edge-patient
+
+### Persistence, Resilience & Grit — Persistent (Theo & Beaver on the Riverbank) — Frustration Tolerance & Trying Again (3–7 years)
+Frustration tolerance grows when children externalize setbacks as solvable engineering puzzles rather than personal failure. Theo & Beaver rebuild on the riverbank by adjusting their design.
+Reference: https://humanedgepress.com/products/human-edge-persistent
+
+### Focus & Deep Attention — Focused (Amir & Owl in the Woodshop) — Single-Tasked Calm & Executive Attention (3–7 years)
+Sustained attention is a trainable muscle. Amir & Owl in the woodshop give children an aspirational picture of quiet, absorbed craftsmanship—working on one thing with steady hands.
+Reference: https://humanedgepress.com/products/human-edge-focused
+
+### Active Listening — Listening (Amara & Rabbit in the Treehouse) — Hearing Others Without Interrupting (3–7 years)
+Listening is more than staying quiet—it is tuning attention outward to catch details and understand another person's thought. Amara & Rabbit turn attentive listening into a superpower in the treehouse.
+Reference: https://humanedgepress.com/products/human-edge-listening
+
+### Honesty & Integrity — Honest (Mateo & Deer on the Forest Trail) — Truth-Telling & Repairing Trust (3–7 years)
+Young children typically fib out of fear of disconnection. Mateo & Deer show how speaking the truth—even with a nervous stomach—lifts secrecy and strengthens trust.
+Reference: https://humanedgepress.com/products/human-edge-honest
+
+### Empathy & Emotional Presence — Empathetic (Sofia & Elephant by the Stream) — Understanding Another's Heart (3–7 years)
+Empathy pairs cognitive perspective-taking ('How might it feel in their shoes?') with warm presence. Sofia & Elephant model sitting alongside someone's big feelings without dismissing them.
+Reference: https://humanedgepress.com/products/human-edge-empathetic
+
+### Curiosity, Creativity, Gratitude & Helpfulness — Wonder, Invention, Gratitude & Contribution in Daily Family Life (3–7 years)
+Unstructured screen-free afternoons unlock four sister virtues: Curiosity (Maya & Fox noticing questions), Creativity (Ruby & Octopus inventing from constraints), Gratitude (Priya & Firefly savoring simple gifts), and Helpfulness (Amina & Dolphin contributing meaningfully).
+Reference: https://humanedgepress.com/collections/human-edge-series
+
+
+
+---
+
+
+
+## Official Socratic Reading & Unit Study Playbooks
+
+# Analog Roots First, Digital Wings Later (Ages 0–7 Blueprint)
+
+## Why Ages 0–7 Are Neurobiologically Distinct
+Between birth and age seven, the human brain builds foundational circuits for **sustained visual-spatial attention, emotional self-regulation, phonemic language, and sensorimotor agency**. Touchscreens compress three dimensions into two and replace slow intrinsic curiosity with rapid extrinsic reward cues—creating the well-documented **2D Transfer Deficit**.
+
+## The 4-Part Daily Screen-Free Rhythm
+1. **Morning Basket Read-Aloud (10–15 min)**: Keep 3–5 age-matched physical books in an open basket by the breakfast table. Read one STEAM or Virtue book before any adult screens come out.
+2. **Tactile Open-Ended Play**: Pair books with simple physical materials—wooden blocks, crayons, playdough, magnifiers, kitchen spoons, or outdoor sticks.
+3. **Socratic Mealtime Check-In**: Ask one open-ended question from tonight's story (*"Who did Caleb notice?"* or *"Where did we see engineering today?"*).
+4. **Unhurried Bedtime Wind-Down**: Warm lamp light + physical hardcover pages protect natural melatonin and turn bedtime into secure connection.
+
+# The Socratic Read-Aloud Method (Ages 2–8)
+
+## Why Quizzing Shuts Down Wonder—and Socratic Inquiry Opens It
+Many adults accidentally turn storytime into a pop quiz (*"What letter is this? What color is his hat?"*). Closed questions have one right answer and end the conversation. **Socratic reading** invites observation, empathy, and original reasoning.
+
+## The 4-Step Human Edge Prompt Sequence
+1. **LOOK (Pure Observation)**: *"Pause right here—what small detail do you notice in the picture that we almost missed?"*
+2. **FEEL / WONDER (Perspective-Taking)**: *"Look at Zuri's shoulders—how do you think she's feeling right before she steps into the meadow?"*
+3. **CONNECT (Real-World Bridge)**: *"Has something like that ever happened to us at the park or in our kitchen?"*
+4. **TRY / IMAGINE (Agency)**: *"If Theo and Beaver asked us to help rebuild their riverbank plan, what would we try next?"*
+
+## Golden Rule for Parents
+Never rush past silence. Count quietly to **five full seconds** after asking a question—young children do their deepest thinking in that quiet pause.
+
+# Month-by-Month High-Contrast Reading Routine (0–24 Months)
+
+- **Months 0–3 (Focal Distance & Fixation)**: Hold *Baby Faces* or *Smart Future* **8 to 12 inches** from your newborn's eyes during calm alert windows (2–5 minutes). Let their eyes lock onto one high-contrast spread without flipping quickly.
+- **Months 3–6 (Tummy Time & Tracking)**: Stand *Animal Friends* or *Our World* upright on the floor mat to encourage neck/shoulder strength and horizontal tracking. Copy expressions and animal sounds.
+- **Months 6–12 (Grasping & Serve-and-Return)**: Let your baby hold the rounded thick board corners of *Little Hands* and help turn pages. Pause 5 seconds whenever they point or vocalize.
+- **Months 12–24 (First Words & Real-World Matching)**: Carry *Big Machines* and *Our World* on stroller walks to connect 2D high-contrast silhouettes to real trucks, trees, dogs, and hands.
+
+# 5-Day Screen-Free Kitchen-Table STEAM Unit Study (Ages 2–5)
+
+- **Monday — Science (*S is for Science*)**: Fill a clear bowl with water; gather 5 household objects (cork, spoon, leaf, coin, apple slice). Ask *"Sink or float?"* before each drop.
+- **Tuesday — Technology (*T is for Technology*)**: Go on a 'Human Tool Hunt'—find a lever (spoon opening a lid), a hinge (cabinet door), and a wheel.
+- **Wednesday — Engineering (*E is for Engineering*)**: Build a bridge across two books using folded index cards vs. flat paper—test how many pennies each holds!
+- **Thursday — Art (*A is for Art*)**: Make outdoor bark and leaf rubbings with peeled wax crayons to study texture, line, and pattern.
+- **Friday — Math (*M is for Math*)**: Bake or prepare a snack together—counting, halving, sorting by size, and building ABAB fruit patterns.
+
+# Three Ground Rules for Teen Social Media & Deep Focus
+
+1. **Protect the Prefrontal Sleep Sanctuary**: Zero phones, tablets, or laptops inside bedrooms overnight. Dock all family devices—parents included—in a central kitchen charging station 60 minutes before sleep.
+2. **Eliminate Short-Form Variable-Ratio Feeds Early**: Delay algorithmic infinite-scroll platforms while prefrontal impulse circuits mature; distinguish intentional communication/creation tools from 6-second dopamine feeds.
+3. **Anchor Daily C-Tactile & Long-Form Stamina**: Pair daily physical embodiment (sports, instruments, cooking, woodworking) with progressive long-form print reading to rebuild 45-minute uninterrupted concentration blocks.
+
+# Four Rules for Navigating an AI-Automated Future (The Human Veto)
+
+1. **Think on Paper First, Prompt Second**: Never ask an AI to think before sketching your own rough outline, hypothesis, or argument by hand—preserving primary cognitive ownership.
+2. **Exercise The Human Veto Ruthlessly**: Treat model outputs as junior statistical drafts requiring primary-source verification, ethical scrutiny, and editorial taste.
+3. **Build an Unusual Specific Knowledge Stack**: Combine deep technical literacy with un-automatable human crafts, primary historical/literary texts, and real-world field experience.
+4. **Reclaim the Unplugged Afternoon**: Guard multi-hour blocks with zero notifications to read whole books and build real projects—where non-consensus insights actually form.

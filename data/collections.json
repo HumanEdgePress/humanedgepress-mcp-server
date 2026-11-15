@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1001,
+    "title": "Stage 1: High-Contrast Baby Board Books (Ages 0–2)",
+    "handle": "high-contrast-baby-books",
+    "url": "https://humanedgepress.com/collections/high-contrast-baby-books",
+    "ageStage": "0-2 years",
+    "description": "Bold black-and-white board books engineered for newborn retinal development, tummy time focus, facial emotion recognition, and serve-and-return parent bonding.",
+    "productsCount": 7,
+    "productHandles": [
+      "animal-friends-high-contrast-board-book",
+      "baby-faces-high-contrast-board-book",
+      "big-machines-high-contrast-board-book",
+      "little-hands-high-contrast-board-book",
+      "newborn-sensory-starter-bundle",
+      "our-world-high-contrast-board-book",
+      "smart-future-high-contrast-baby-book"
+    ],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0776/9102/7629/files/animal-friends-cover.jpg?v=1791057742"
+  },
+  {
+    "id": 1002,
+    "title": "Stage 2: STEAM Alphabet Board Books (Ages 2–4)",
+    "handle": "steam-board-books",
+    "url": "https://humanedgepress.com/collections/steam-board-books",
+    "ageStage": "2-4 years",
+    "description": "Tactile A-to-Z board books by Ethan Finch introducing Science, Technology (human tools), Engineering, Art, and Math through everyday toddler observation.",
+    "productsCount": 6,
+    "productHandles": [
+      "a-is-for-art-steam-alphabet-board-book",
+      "e-is-for-engineering-steam-alphabet-board-book",
+      "m-is-for-math-steam-alphabet-board-book",
+      "s-is-for-science-steam-alphabet-board-book",
+      "steam-little-thinkers-bundle",
+      "t-is-for-technology-steam-alphabet-board-book"
+    ],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0776/9102/7629/files/art-alphabet-cover.png?v=1791057821"
+  },
+  {
+    "id": 1003,
+    "title": "Stage 3: The Human Edge Hardcover Virtue Series (Ages 3–7)",
+    "handle": "human-edge-series",
+    "url": "https://humanedgepress.com/collections/human-edge-series",
+    "ageStage": "3-7 years",
+    "description": "Twelve archival hardcover storybooks pairing child-and-animal duos with built-in Socratic conversation prompts for parents across 12 foundational human virtues.",
+    "productsCount": 13,
+    "productHandles": [
+      "human-edge-brave",
+      "human-edge-creative",
+      "human-edge-curious",
+      "human-edge-empathetic",
+      "human-edge-focused",
+      "human-edge-helpful",
+      "human-edge-honest",
+      "human-virtues-box-bundle",
+      "human-edge-kind",
+      "human-edge-listening",
+      "human-edge-patient",
+      "human-edge-persistent",
+      "human-edge-thankful"
+    ],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0776/9102/7629/files/human-edge-brave-front.png?v=1791057897"
+  },
+  {
+    "id": 1004,
+    "title": "Pre-K & TK Tactile Learning Workbooks (Ages 3–5)",
+    "handle": "pre-k-workbooks-and-readiness",
+    "url": "https://humanedgepress.com/collections/all",
+    "ageStage": "3-5 years",
+    "description": "100% screen-free print workbooks building real pencil grip, sensorimotor feedback, phonics, counting, and logical reasoning.",
+    "productsCount": 1,
+    "productHandles": [
+      "big-pre-k-learning-workbook"
+    ],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0776/9102/7629/files/big-prek-workbook-1.webp?v=1791057966"
+  },
+  {
+    "id": 1005,
+    "title": "Curated Developmental Box Sets & Master Chest (Ages 0–7)",
+    "handle": "curated-bundles-and-gift-sets",
+    "url": "https://humanedgepress.com/#curated-bundles",
+    "ageStage": "0-7 years",
+    "description": "Gift-ready developmental book bundles from the 3-book Newborn Sensory Starter up to the 23-Book Master Developmental Library Chest (all qualify for Free US Shipping).",
+    "productsCount": 4,
+    "productHandles": [
+      "newborn-sensory-starter-bundle",
+      "steam-little-thinkers-bundle",
+      "human-virtues-box-bundle",
+      "master-screen-free-chest-bundle"
+    ],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0776/9102/7629/files/baby-faces-cover_a0d18c94-d371-4cbd-b86b-391d8481346f.jpg?v=1791057948"
+  }
+]

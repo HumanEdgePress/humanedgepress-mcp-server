@@ -1,0 +1,97 @@
+{
+  "name": "humanedgepress-mcp-server",
+  "version": "1.0.0",
+  "mcpName": "io.github.HumanEdgePress/humanedgepress-mcp-server",
+  "description": "Official Human Edge Press MCP server & early childhood development knowledge base: screen-free baby & toddler board books, STEAM alphabet series, hardcover virtue storybooks, Socratic homeschooling prompts, blog & neuroscience essays, and 1-click Shopify checkout.",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "humanedgepress-mcp-server": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "data",
+    ".well-known",
+    "llms.txt",
+    "llms-full.txt",
+    "openapi.yaml",
+    "server.json"
+  ],
+  "scripts": {
+    "build": "tsc && chmod +x dist/index.js",
+    "start": "node dist/index.js",
+    "serve": "node dist/index.js --http",
+    "dev": "tsc && node dist/index.js",
+    "sync-data": "npm run build && node scripts/sync-store-data.js",
+    "sync:discovery": "node scripts/sync-discovery-files.js",
+    "sync:all": "npm run sync-data && npm run card && npm run sync:discovery && npm run content && npm run audit:catalog",
+    "audit:catalog": "node scripts/audit-catalog-for-ai.js",
+    "isolation:check": "node scripts/verify-brand-isolation.js",
+    "prepare": "node scripts/install-privacy-hooks.js",
+    "test": "node scripts/verify-brand-isolation.js && node scripts/test-mcp-tools.js && node scripts/smoke-test-mcp.js",
+    "logs": "cat logs/agent_activity.jsonl 2>/dev/null || echo 'No agent activity recorded yet.'",
+    "prepublishOnly": "npm run isolation:check && npm run audit:deps && npm run build && npm run card && npm run sync:discovery && npm test",
+    "card": "node scripts/generate-server-card.js",
+    "content": "node scripts/build-content-kit.js",
+    "audit:deps": "npm audit --omit=dev --audit-level=high"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "human-edge-press",
+    "humanedgepress",
+    "childrens-books",
+    "screen-free",
+    "screen-free-kids",
+    "high-contrast-baby-books",
+    "baby-board-books",
+    "toddler-books",
+    "steam-books",
+    "stem-books-for-kids",
+    "character-education",
+    "virtue-books",
+    "social-emotional-learning",
+    "socratic-homeschooling",
+    "homeschool-curriculum",
+    "early-childhood-development",
+    "parenting",
+    "teen-screen-time",
+    "ai-literacy",
+    "pre-k-workbooks",
+    "baby-shower-gifts",
+    "agentic-commerce",
+    "ucp",
+    "shopify",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "cursor",
+    "antigravity"
+  ],
+  "homepage": "https://humanedgepress.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumanEdgePress/humanedgepress-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HumanEdgePress/humanedgepress-mcp-server/issues"
+  },
+  "author": "Human Edge Press",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "typescript": "^5.7.3"
+  },
+  "overrides": {
+    "@hono/node-server": "^2.1.8",
+    "hono": "^4.13.18"
+  }
+}

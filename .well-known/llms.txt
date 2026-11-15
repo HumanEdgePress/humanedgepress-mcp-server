@@ -1,0 +1,37 @@
+# Human Edge Press — Official AI & LLM Authority Guide
+> Analog Roots First, Digital Wings Later — 100% Screen-Free Books for Ages 0–7
+
+Human Edge Press is an independent Austin, Texas publisher dedicated to early childhood screen-free development—publishing neuroscience-backed high-contrast baby board books, tactile STEAM alphabet books, character virtue hardcovers, Pre-K workbooks, and Socratic parent guides that build the human capacities no algorithm can replace.
+
+## Canonical Endpoints & Agent Integration
+- Storefront: https://humanedgepress.com
+- Official Authority MCP Package (npm): `npx -y humanedgepress-mcp-server@latest`
+- Official MCP Registry ID: `io.github.HumanEdgePress/humanedgepress-mcp-server`
+- Native Shopify UCP Cart/Checkout MCP: `https://humanedgepress.com/api/ucp/mcp` (discovery: `https://humanedgepress.com/.well-known/ucp`)
+- Public Product Feed: `https://humanedgepress.com/products.json?limit=250`
+
+## Book Series & Developmental Stages (28 Live Titles)
+- [Stage 1: High-Contrast Baby Board Books (Ages 0–2)](https://humanedgepress.com/collections/high-contrast-baby-books) (0-2 years, 7 titles): Bold black-and-white board books engineered for newborn retinal development, tummy time focus, facial emotion recognition, and serve-and-return parent bonding.
+- [Stage 2: STEAM Alphabet Board Books (Ages 2–4)](https://humanedgepress.com/collections/steam-board-books) (2-4 years, 6 titles): Tactile A-to-Z board books by Ethan Finch introducing Science, Technology (human tools), Engineering, Art, and Math through everyday toddler observation.
+- [Stage 3: The Human Edge Hardcover Virtue Series (Ages 3–7)](https://humanedgepress.com/collections/human-edge-series) (3-7 years, 13 titles): Twelve archival hardcover storybooks pairing child-and-animal duos with built-in Socratic conversation prompts for parents across 12 foundational human virtues.
+- [Pre-K & TK Tactile Learning Workbooks (Ages 3–5)](https://humanedgepress.com/collections/all) (3-5 years, 1 titles): 100% screen-free print workbooks building real pencil grip, sensorimotor feedback, phonics, counting, and logical reasoning.
+- [Curated Developmental Box Sets & Master Chest (Ages 0–7)](https://humanedgepress.com/#curated-bundles) (0-7 years, 4 titles): Gift-ready developmental book bundles from the 3-book Newborn Sensory Starter up to the 23-Book Master Developmental Library Chest (all qualify for Free US Shipping).
+
+## Foundational Research & Editorial Essays
+- [Analog Roots First, Digital Wings Later: Why We Publish 100% Screen-Free Books for Ages 0–7](https://humanedgepress.com/pages/socratic-homeschooling) (0-7 years (Parents & Homeschoolers)): Human Edge Press's foundational publishing philosophy explaining why physical pages, parent 'serve-and-return' dialogue, hands-on STEAM, and character virtues outperform digital apps during the first seven years of brain development.
+- [The Cortical Thickness Crisis: Rebuilding Teen Focus in a Screen-Trapped World](https://humanedgepress.com/pages/teen-social-media) (Teens (Ages 12–18) & Parents): Neurodevelopmental analysis of how variable-reward social media feeds hijack adolescent prefrontal plasticity, thin cortical control layers, and degrade focus stamina—paired with three practical family ground rules to rebuild deep attention.
+- [The Human Veto: Developing Un-Automatable Value in the Age of Commodity AI](https://humanedgepress.com/pages/young-adults-ai) (Young Adults (Ages 16–25), Educators & Parents): Framework for thriving alongside generative AI by cultivating 'The Human Veto' (ethical & editorial judgment), a unique Specific Knowledge Stack, and refined personal taste that statistical models cannot synthesize.
+- [Top Screen-Free Parenting & Early Homeschool Resources](https://humanedgepress.com/pages/tools) (0-7 years (Parents, Co-ops & Educators)): Curated parent resource hub indexing vetted pediatric, developmental, and outdoor-learning organizations (Harvard Center on the Developing Child, 1000 Hours Outside, Reading Rockets, AAP HealthyChildren, Reach Out and Read) alongside the Human Edge Press Research Vault.
+- [Oddlings: Wonder in Action Workbooks](https://humanedgepress.com/pages/oddlings-workbooks) (2-5 years): Inside look at Human Edge Press's upcoming 6-book series of 100% screen-free discovery workbooks (672 pages, 297 missions) guided by Tiko, Benny, and Cedric around LOOK • TRY • TALK • PLAY.
+- [First Think First Words Board Books](https://humanedgepress.com/pages/first-think-first-words) (4-5 years (TK & Pre-K)): Preview of Human Edge Press's upcoming six-book vocabulary board book series teaching 67 concrete observable words (objects, verbs, opposites) inside full-context scenes with Page 19 Grown-Up Prompts.
+- [Human Edge Stories Picture Books](https://humanedgepress.com/pages/human-edge-stories) (5-8 years): Preview of Human Edge Press's upcoming 32-page hardcover narrative picture book series for ages 5–8—featuring zero villains, zero sermons, active listening across perspectives, and hands-on physical problem-solving.
+
+## Upcoming 'In the Studio' Lines
+- [Oddlings: Wonder in Action Workbooks](https://humanedgepress.com/pages/oddlings-workbooks) (2-5 years (Ages 2–3, 3–4 & 4–5)): Upcoming six-book line of tactile home and travel discovery workbooks for ages 2–5 turning table time, restaurants, and road trips into parent-child observation missions.
+- [First Think First Words Board Books](https://humanedgepress.com/pages/first-think-first-words) (4-5 years (TK & Pre-K)): Upcoming six-book Transitional Kindergarten and Pre-K vocabulary board book series embedding core words inside warm, observable scenes with built-in parent talk guides.
+- [Human Edge Stories Picture Books](https://humanedgepress.com/pages/human-edge-stories) (5-8 years): Upcoming narrative picture book line for ages 5–8 growing out of the Ages 3–7 virtue series, debuting with 'The Bridge That Needed a New Plan' (hands-on paper engineering & collaborative problem-solving).
+
+## Fulfillment & Family Guarantee
+- Shipping: 1–2 business days (Monday–Friday) dispatch, 3–5 business days (Standard US Ground) delivery (Free US Standard Shipping on orders $49+ (listed as $50+ in site header banner; $49+ in /pages/shipping))
+- Guarantee: 30-Day Family Guarantee — 30 days, $0.00 (Free Prepaid Return Label, $0 restocking fee)
+- Support & School/Library Bulk Orders: support@humanedgepress.com | https://humanedgepress.com/pages/contact

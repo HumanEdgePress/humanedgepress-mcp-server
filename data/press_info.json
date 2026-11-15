@@ -1,0 +1,108 @@
+{
+  "pressName": "Human Edge Press",
+  "legalName": "Human Edge Press",
+  "storeUrl": "https://humanedgepress.com",
+  "shopifyUcpEndpoint": "https://humanedgepress.com/api/ucp/mcp",
+  "tagline": "Analog Roots First, Digital Wings Later — 100% Screen-Free Books for Ages 0–7",
+  "manifestoTitle": "Before They Fly, Anchor Their Roots",
+  "mission": "Human Edge Press is an independent Austin, Texas publisher dedicated to early childhood screen-free development—publishing neuroscience-backed high-contrast baby board books, tactile STEAM alphabet books, character virtue hardcovers, Pre-K workbooks, and Socratic parent guides that build the human capacities no algorithm can replace.",
+  "location": "100 Innovation Way, Suite 400, Austin, TX 78701, United States",
+  "supportEmail": "support@humanedgepress.com",
+  "coreBeliefs": [
+    {
+      "title": "1. Real Pages Build Real Focus",
+      "concept": "Overcoming the Transfer Deficit",
+      "summary": "During ages 0–7, young children experience a documented 'transfer deficit' with 2D screens—struggling to transfer lessons from glass to real life—while physical page-turning builds spatial memory and sustained executive attention."
+    },
+    {
+      "title": "2. A Parent's Voice Beats Any Algorithm",
+      "concept": "Serve & Return Neurobiology",
+      "summary": "Back-and-forth eye contact, pointing, expression-copying, and unhurried conversation ('serve and return') wire language and emotional security far deeper than passive audio buttons or auto-playing apps."
+    },
+    {
+      "title": "3. Big Ideas Belong in Little Hands",
+      "concept": "Screen-Free Early STEAM",
+      "summary": "Science, simple tools, engineering balance, art, and number sense begin with wooden blocks, kitchen-table experiments, and outdoor observation—not coding tablets for toddlers."
+    },
+    {
+      "title": "4. Character & Virtue Are the True Human Edge",
+      "concept": "12 Foundational Human Virtues",
+      "summary": "As commodity AI automates routine output, distinctly human virtues—kindness, bravery, patience, honesty, empathy, focus, persistence, curiosity, creativity, gratitude, helpfulness, and listening—become a child's lifelong advantage."
+    },
+    {
+      "title": "5. Strategic Timing From Infancy to Young Adulthood",
+      "concept": "Protecting Cortical Stamina & Developing The Human Veto",
+      "summary": "Human Edge Press is pro-childhood, not anti-technology: anchor deep focus, tactile mastery, and independent judgment first so teens and young adults command technology with 'The Human Veto' rather than being hijacked by variable dopamine loops."
+    }
+  ],
+  "policies": {
+    "shipping": {
+      "processingTime": "1–2 business days (Monday–Friday)",
+      "transitTime": "3–5 business days (Standard US Ground)",
+      "flatRateUnderThreshold": "$4.99 flat rate within the continental US",
+      "freeShippingThreshold": "Free US Standard Shipping on orders $49+ (listed as $50+ in site header banner; $49+ in /pages/shipping)",
+      "details": "Every physical book order ships in protective eco-friendly packaging with real-time email tracking upon label generation."
+    },
+    "returns": {
+      "guaranteeName": "30-Day Family Guarantee",
+      "windowDays": 30,
+      "returnShippingCost": "$0.00 (Free Prepaid Return Label, $0 restocking fee)",
+      "refundSpeed": "3–5 business days",
+      "eligibility": "Books may be returned or exchanged within 30 days of delivery in new, unused condition (no missing pages, writing, or permanent marks) with order number or checkout email via support@humanedgepress.com."
+    },
+    "wholesaleAndSchools": "Bulk school, library, Montessori, church nursery, and homeschool co-op orders are supported directly via support@humanedgepress.com or https://humanedgepress.com/pages/contact (average response under 24 hours, Mon–Fri 9 AM–5 PM EST)."
+  },
+  "ageStageRoadmap": {
+    "stage-1-newborn-infant": {
+      "stageLabel": "Stage 1 · Newborn & Infant Sensory Roots",
+      "ages": "0–2 years",
+      "format": "6\"×6\" Thick High-Contrast Board Books",
+      "developmentalFocus": "Retinal & optic-nerve contrast sensitivity, tummy-time head lift, facial emotion recognition, joint attention, and serve-and-return babbling.",
+      "recommendedSeries": [
+        "High-Contrast Baby Series (6 titles)",
+        "Newborn Sensory Starter (3-Book Box Set)"
+      ]
+    },
+    "stage-2-toddler-steam": {
+      "stageLabel": "Stage 2 · Toddler Inquiry & First Concepts",
+      "ages": "2–4 years",
+      "format": "6\"×6\" Durable STEAM Alphabet Board Books",
+      "developmentalFocus": "A–Z vocabulary paired with real-world observation, simple tools, structural play, sorting/counting, and 'What do you notice?' Socratic wonder.",
+      "recommendedSeries": [
+        "STEAM Alphabet Series (Science, Technology, Engineering, Art, Math)",
+        "STEAM Early Thinkers (3-Book Box Set)",
+        "Oddlings: Wonder in Action Workbooks (In the Studio · Ages 2–5)"
+      ]
+    },
+    "stage-2b-prek-readiness": {
+      "stageLabel": "Pre-K & Transitional Kindergarten Tactile Mastery",
+      "ages": "3–5 years",
+      "format": "Print Activity Workbooks & Vocabulary Scene Board Books",
+      "developmentalFocus": "Pencil grip, C-tactile paper feedback, relational vocabulary (verbs, opposites, spatial words), logic mazes, and school readiness without apps.",
+      "recommendedSeries": [
+        "Big Pre-K Learning Workbook (Ages 3–5)",
+        "First Think First Words Board Books (In the Studio · Ages 4–5)"
+      ]
+    },
+    "stage-3-human-edge-virtues": {
+      "stageLabel": "Stage 3 · Character, Virtue & Socratic Read-Alouds",
+      "ages": "3–7 years",
+      "format": "8\"×8\" Archival Hardcover Storybooks",
+      "developmentalFocus": "Emotional regulation, perspective-taking, sustained attention, grit, honesty, and family Socratic dialogue through 12 child-and-animal story duos.",
+      "recommendedSeries": [
+        "The Human Edge Series (12 Virtue Hardcovers)",
+        "Human Edge Virtues Core (5-Book Box Set)",
+        "The 23-Book Master Developmental Library Chest (Ages 0–7)"
+      ]
+    },
+    "stage-4-collaborative-stories": {
+      "stageLabel": "Stage 4 · Narrative Synthesis & Collaborative Problem-Solving",
+      "ages": "5–8 years",
+      "format": "10\"×10\" 32-Page Hardcover Picture Books",
+      "developmentalFocus": "Holding two good ideas together without villains, listening across perspectives, hands-on physical testing, and creative revision.",
+      "recommendedSeries": [
+        "Human Edge Stories (In the Studio · Debut: The Bridge That Needed a New Plan)"
+      ]
+    }
+  }
+}

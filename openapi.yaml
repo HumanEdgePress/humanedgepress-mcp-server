@@ -1,0 +1,40 @@
+openapi: 3.1.0
+info:
+  title: Human Edge Press Catalog & Developmental Research API
+  version: 1.0.0
+  description: >
+    Public read-only endpoints for discovering Human Edge Press's 100% screen-free
+    children's books (ages 0-8), Socratic homeschooling guides, and developmental
+    neuroscience resources on https://humanedgepress.com.
+servers:
+  - url: https://humanedgepress.com
+    description: Canonical Human Edge Press Shopify Storefront
+paths:
+  /products.json:
+    get:
+      operationId: listHumanEdgeBooks
+      summary: List all active Human Edge Press books, workbooks, and gift box sets
+      parameters:
+        - name: limit
+          in: query
+          required: false
+          schema:
+            type: integer
+            default: 250
+      responses:
+        "200":
+          description: JSON array of published Shopify book products and variant IDs
+  /collections.json:
+    get:
+      operationId: listHumanEdgeCollections
+      summary: List published Human Edge Press book collections
+      responses:
+        "200":
+          description: JSON array of Shopify collections
+  /blogs/news/articles.json:
+    get:
+      operationId: listHumanEdgeBlogArticles
+      summary: List published Human Edge Press blog articles and research essays
+      responses:
+        "200":
+          description: JSON array of published Shopify blog articles

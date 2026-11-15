@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "humanedgepress": {
+      "command": "node",
+      "args": ["dist/index.js"]
+    }
+  }
+}

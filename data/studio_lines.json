@@ -1,0 +1,54 @@
+[
+  {
+    "id": "oddlings-workbooks",
+    "title": "Oddlings: Wonder in Action Workbooks",
+    "seriesSlug": "oddlings-workbooks",
+    "url": "https://humanedgepress.com/pages/oddlings-workbooks",
+    "ageStage": "2-5 years (Ages 2–3, 3–4 & 4–5)",
+    "formatSummary": "6 screen-free print workbooks across 672 total pages (160-page Home Workbooks & 64-page Portable Travel Workbooks) with 297 open-and-go missions",
+    "methodology": "Guided by plush-textured companions Tiko, Benny, and Cedric around shared LOOK • TRY • TALK • PLAY discovery missions—zero apps, zero QR codes, zero busywork drills.",
+    "upcomingTitles": [
+      "My Day and My World",
+      "Little Trips and Tiny Finds",
+      "Patterns Around Us",
+      "Make and Notice",
+      "Questions and Choices",
+      "Ready to Explore"
+    ],
+    "summary": "Upcoming six-book line of tactile home and travel discovery workbooks for ages 2–5 turning table time, restaurants, and road trips into parent-child observation missions.",
+    "status": "in_the_studio"
+  },
+  {
+    "id": "first-think-first-words",
+    "title": "First Think First Words Board Books",
+    "seriesSlug": "first-think-first-words",
+    "url": "https://humanedgepress.com/pages/first-think-first-words",
+    "ageStage": "4-5 years (TK & Pre-K)",
+    "formatSummary": "6 square 6\"×6\" illustrated board books (20 pages each, 67 concrete observable words across objects, verbs & opposites) with dedicated Page 19 Grown-Up Vocabulary Prompts",
+    "methodology": "Replaces isolated flashcard nouns with full-scene relational thinking built around LOOK • POINT • COMPARE • SAY (Notice & Match, Count & Compare, Name & Sort, Observe & Classify).",
+    "upcomingTitles": [
+      "Colors and Shapes",
+      "Numbers and Counting",
+      "Animals Around Us",
+      "Things That Go",
+      "Weather and Seasons",
+      "At School"
+    ],
+    "summary": "Upcoming six-book Transitional Kindergarten and Pre-K vocabulary board book series embedding core words inside warm, observable scenes with built-in parent talk guides.",
+    "status": "in_the_studio"
+  },
+  {
+    "id": "human-edge-stories",
+    "title": "Human Edge Stories Picture Books",
+    "seriesSlug": "human-edge-stories",
+    "url": "https://humanedgepress.com/pages/human-edge-stories",
+    "ageStage": "5-8 years",
+    "formatSummary": "32-page 10\"×10\" square hardcover narrative read-aloud picture books (15 illustrated spreads, zero preachy sermons)",
+    "methodology": "Shared tension with zero villains: children hold two good perspectives together through active listening, visible physical cause-and-effect testing, and collaborative revision.",
+    "upcomingTitles": [
+      "Book 01: The Bridge That Needed a New Plan"
+    ],
+    "summary": "Upcoming narrative picture book line for ages 5–8 growing out of the Ages 3–7 virtue series, debuting with 'The Bridge That Needed a New Plan' (hands-on paper engineering & collaborative problem-solving).",
+    "status": "in_the_studio"
+  }
+]
